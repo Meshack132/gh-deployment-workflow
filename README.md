@@ -6,3 +6,5 @@ This project demonstrates a simple CI/CD workflow using GitHub Actions to automa
 
 - The project contains a simple `index.html` file.
 - Every time a change is made to the `index.html` file and pushed to the main branch, the GitHub Action will trigger a deployment to GitHub Pages.
+
+  Product URL: https://meshack132.github.io/gh-deployment-workflow/
